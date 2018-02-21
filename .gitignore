@@ -1,3 +1,10 @@
+# Personalized ignores
+*.bat
+Quizzes/
+Resources/
+Lecture Videos/
+Books/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
